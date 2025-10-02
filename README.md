@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Damish Samarajeewa  
 
-🚀 **Software Engineer | 5+ Years of Experience | Backend & Cloud Specialist**  
+🚀 **Software Engineer | 5+ Years of Experience | Backend Specialist**  
 
 I’m passionate about designing and developing **scalable backend systems**, building **cloud-native applications**, and mentoring teams to deliver impactful solutions. Currently working at **Sysco LABS** (Fortune 500 – Sysco Corporation), contributing **API Gateway management solutions**.  
 
